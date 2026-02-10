@@ -17,7 +17,7 @@
 7. **Coding** - Paper Prototype was converted to code.
 8. **Test & Bug Fixing** - All the functionalities and features were tested and some bugs were successfully fixed.
 
-> More detailed information about the whole process can be found in this **[document](https://github.com/talasumaa/Uni-Q-A-Mobile-App/blob/main/Lab5_dossier.docx)**.
+> More detailed information about the whole process can be found in this **[document](./Lab5_dossier.docx)**.
 <br><br> 
 ## 📂 Project Structure
 ``` plaintext

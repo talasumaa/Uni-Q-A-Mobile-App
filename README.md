@@ -5,12 +5,16 @@
 [![Dart](https://img.shields.io/badge/Dart-3.3-blue?logo=dart)](https://dart.dev)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+## ✨ Features
 
-## ✨Product Highlights
-- 📱**Feed View** - all the questions are structured in modern widely used feed format in order to provide familiar experience to the other mostly used apps.
-- 🎯**Flat Hierarchy** - Most important features are just one click away.
-- 📊**Statistics** - Statistical information about user's engagement in the app is presented in easily accessible section.
-- ⚖️**Users decide the fate of the posts** - Users can answer, provide explanations or just vote up/down to published questions.
+| Feature | Description | Emoji |
+|---------|-------------|-------|
+| **Smart Feed** | Questions displayed in familiar infinite-scroll format with sorting options | 📱 |
+| **Voting System** | Upvote/downvote questions and answers to surface best content | ⬆️⬇️ |
+| **Real-time Q&A** | Post questions, provide answers, and add explanations | 💬 |
+| **User Statistics** | Track your engagement with detailed activity metrics | 📊 |
+| **Clean Navigation** | Flat hierarchy with all core features one tap away | 🎯 |
+| **Cross-platform** | Works on iOS, Android, and web from single codebase | 🔄 |
 <br><br> 
 ## 🚀 Workflow
 1. **Brainstorming** - started with a bunch of random ideas(wild ideas was encouraged).

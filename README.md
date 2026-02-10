@@ -27,7 +27,13 @@
 8. **Testing & Bug fixing** - All the functionalities and features were tested and some bugs were successfully fixed.
 
 > More detailed information about the whole process can be found in this **[document](./Lab5_dossier.docx)**.
-<br><br> 
+<br><br>
+
+## 📱 App Screenshots
+| Main Feed | Post Question | Question Details | User Profile |
+|-----------|---------------|------------------|--------------|
+| <img src="./screenshots/photo3.jpg" height="350" alt="Feed"> | <img src="./screenshots/photo1.jpg" height="350" alt="PostQuestion"> | <img src="./screenshots/photo2.jpg" height="350" alt="QuestionDetails"> | <img src="./screenshots/photo4.jpg" height="350" alt="Profile"> |
+
 ## 📂 Project Structure
 ``` plaintext
 uni-qa-mobile-app/
@@ -74,3 +80,6 @@ uni-qa-mobile-app/
 ├─ pubspec.yaml
 └─ README.md
 ```
+## 📄 License
+
+This project is licensed under Personal License - see the **[LICENSE](LICENSE)** file for details.

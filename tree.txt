@@ -1,0 +1,43 @@
+uni-qa-mobile-app/
+├─ android/
+├─ ios/
+├─ lib/
+│  ├─ app/
+│  │  ├─ app_state.dart
+│  │  ├─ app.dart
+│  │  └─ root_shell.dart
+│  ├─ data/
+│  │  └─ qna_repository.dart
+│  ├─ models/
+│  │  ├─ answer.dart
+│  │  ├─ app_user.dart
+│  │  ├─ feed_sort.dart
+│  │  └─ question.dart
+│  ├─ screens/
+│  │  ├─ add_answer_screen.dart
+│  │  ├─ ask_question_screen.dart
+│  │  ├─ feed_screen.dart
+│  │  ├─ login_screen.dart
+│  │  ├─ profile_screen.dart
+│  │  └─ question_detail_screen.dart
+│  ├─ utils/
+│  │  ├─ snack.dart
+│  │  └─ time_ago.dart
+│  ├─ widgets/
+│  │  ├─ answer_card.dart
+│  │  ├─ empty_box.dart
+│  │  ├─ mini_chip.dart
+│  │  ├─ question_card.dart
+│  │  └─ stat_tile.dart
+│  └─ main.dart
+├─ linux/
+├─ macos/
+├─ web/
+├─ windows/
+├─ .gitignore
+├─ .metadata
+├─ analysis_options.yaml
+├─ Lab5_dossier.docx
+├─ pubspec.lock
+├─ pubspec.yaml
+└─ README.md

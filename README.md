@@ -17,14 +17,14 @@
 | **Cross-platform** | Works on iOS, Android, and web from single codebase | 🔄 |
  
 ## 🚀 Workflow
-1. **Brainstorming** - started with a bunch of random ideas(wild ideas was encouraged).
-2. Consulting with other independent people who gave their feedback and opinion about their favourite app concept which was presented to them.
-3. Development Team finally weighted all the advantages and disadvantages of all app regarding to the feedback of asked people and finally started builing on the idea of the chosen idea.
-4. **Prototyping** - the rough idea was drew on paper, details were missing.
-5. After another consulting with possible future users of the app, some of the functions were scrached and other were figured out (Design underwent some changes).
-6. **Final Prototype** was finally figured.
-7. **Coding** - Paper Prototype was converted to code.
-8. **Test & Bug Fixing** - All the functionalities and features were tested and some bugs were successfully fixed.
+1. **Brainstorming** - started with a bunch of random ideas(wild ideas were encouraged).
+2. Consulting with other independent people, who gave their feedback and opinion on their favourite app concept.
+3. The development team weighed up all the advantages and disadvantages of the app in light of the feedback from the people who were asked, and finally started building on the chosen idea.
+4. **Prototyping** - the rough idea was drew on paper(details were missing).
+5.  After consulting with potential future users of the app again, some functions were scrapped and others were finalised (the design underwent some changes).
+6. The **final prototype** was created.
+7. **Coding** - The paper prototype was converted to code.
+8. **Testing & Bug fixing** - All the functionalities and features were tested and some bugs were successfully fixed.
 
 > More detailed information about the whole process can be found in this **[document](./Lab5_dossier.docx)**.
 <br><br> 

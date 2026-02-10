@@ -15,7 +15,7 @@
 | **User Statistics** | Track your engagement with detailed activity metrics | 📊 |
 | **Clean Navigation** | Flat hierarchy with all core features one tap away | 🎯 |
 | **Cross-platform** | Works on iOS, Android, and web from single codebase | 🔄 |
-<br><br> 
+ 
 ## 🚀 Workflow
 1. **Brainstorming** - started with a bunch of random ideas(wild ideas was encouraged).
 2. Consulting with other independent people who gave their feedback and opinion about their favourite app concept which was presented to them.

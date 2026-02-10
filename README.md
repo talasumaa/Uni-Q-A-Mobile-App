@@ -1,6 +1,11 @@
 # Uni Q&A Mobile App
 *A cross-platform mobile app developed using Flutter Framework with a target group of **students/pupils**.*
 
+[![Flutter](https://img.shields.io/badge/Flutter-3.19-blue?logo=flutter)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.3-blue?logo=dart)](https://dart.dev)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 ## ✨Product Highlights
 - 📱**Feed View** - all the questions are structured in modern widely used feed format in order to provide familiar experience to the other mostly used apps.
 - 🎯**Flat Hierarchy** - Most important features are just one click away.

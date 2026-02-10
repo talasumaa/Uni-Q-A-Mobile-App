@@ -1,6 +1,12 @@
-# Uni-Q-A-Mobile-App
-A cross-platform mobile app developed using Flutter Framework. 
+# Uni Q&A Mobile App
+*A cross-platform mobile app developed using Flutter Framework with a target group of **students/pupils**.*
 
+## ✨Product Highlights
+- 📱**Feed View** - all the questions are structured in modern widely used feed format in order to provide familiar experience to the other mostly used apps.
+- 🎯**Flat Hierarchy** - Most important features are just one click away.
+- 📊**Statistics** - Statistical information about user's engagement in the app is presented in easily accessible section.
+- ⚖️**Users decide the fate of the posts** - Users can answer, provide explanations or just vote up/down to published questions.
+<br><br> 
 ## 🚀 Workflow
 1. **Brainstorming** - started with a bunch of random ideas(wild ideas was encouraged).
 2. Consulting with other independent people who gave their feedback and opinion about their favourite app concept which was presented to them.
@@ -12,7 +18,7 @@ A cross-platform mobile app developed using Flutter Framework.
 8. **Test & Bug Fixing** - All the functionalities and features were tested and some bugs were successfully fixed.
 
 > More detailed information about the whole process can be found in this **[document](https://github.com/talasumaa/Uni-Q-A-Mobile-App/blob/main/Lab5_dossier.docx)**.
-
+<br><br> 
 ## 📂 Project Structure
 ``` plaintext
 uni-qa-mobile-app/
@@ -59,5 +65,3 @@ uni-qa-mobile-app/
 ├─ pubspec.yaml
 └─ README.md
 ```
-
-## Project Highlights

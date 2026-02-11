@@ -1,4 +1,4 @@
-# Uni Q&A Mobile App
+# Uni Q&A Mobile App .
 *A cross-platform mobile app developed using Flutter Framework with a target group of **students/pupils**.*
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.19-blue?logo=flutter)](https://flutter.dev)

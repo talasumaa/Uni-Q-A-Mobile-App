@@ -80,6 +80,26 @@ uni-qa-mobile-app/
 ├─ pubspec.yaml
 └─ README.md
 ```
+
+## How to build and run?
+### 1. Prerequisites:
+   - Download & Install Flutter SDK.
+   - Any text editor, though VS Code or Android Studio is recommended.
+   - A connected physical device or a running emulator/simulator to run the app on.
+  
+```
+flutter doctor        // verify your setup is correct
+```
+### 2. Open project folder in your workspace
+### 3. Get Dependencies:
+```
+flutter pub get      // Before running the app for the first time, fetch all the necessary dependencies and packages
+```
+### 4. Run the Project
+```
+flutter run     // build and launch the app on a connected device or emulator
+```
+
 ## 📄 License
 
 This project is licensed under Personal License - see the **[LICENSE](LICENSE)** file for details.

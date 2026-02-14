@@ -102,4 +102,4 @@ flutter run     // build and launch the app on a connected device or emulator
 
 ## 📄 License
 
-This project is licensed under Personal License - see the **[LICENSE](LICENSE)** file for details.
+> This project is licensed under Personal License - see the **[LICENSE](LICENSE)** file for details.
